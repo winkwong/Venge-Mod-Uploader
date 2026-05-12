@@ -17,6 +17,7 @@ A browser extension that allows you to easily load [Venge.io](https://venge.io/)
 ## ✨ Features
 
 - **📂 Easy Uploads**: Upload mod files or folders directly from the extension popup.
+- **🔘 Easy Mod Toggling**: Enable or disable loaded mods instantly with a single click from the extension popup.
 - **💾 Local Storage**: Stores uploaded mods securely in extension storage.
 - **⚡ Page-World Runtime**: Injects a custom runtime on `venge.io` to handle modding logic seamlessly.
 - **🔄 Asset Remapping**: Automatically remaps matching Venge asset URLs to your uploaded mod assets.
@@ -27,13 +28,18 @@ A browser extension that allows you to easily load [Venge.io](https://venge.io/)
 
 ## 🚀 Installation
 
-Currently, the extension can be installed manually via Chrome's Developer Mode:
+This extension supports all **Chromium-based browsers** (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi). 
 
-1. Download or clone this repository.
-2. Open your Chromium-based browser and navigate to `chrome://extensions/`
+Currently, it can be installed manually via Developer Mode:
+
+1. Download the latest `.zip` file from the **[Releases](../../releases/latest)** page and extract it.
+2. Open your browser and navigate to its extensions page:
+   - Chrome/Vivaldi/Opera: `chrome://extensions/`
+   - Edge: `edge://extensions/`
+   - Brave: `brave://extensions/`
 3. Enable **Developer mode** (usually a toggle in the top right corner).
 4. Click **Load unpacked** in the top left.
-5. Select this extension folder.
+5. Select the extracted extension folder.
 
 ## 🕹️ Usage
 
@@ -71,4 +77,4 @@ Then, reload the page.
 
 ## 🤝 Credits
 
-- Created by **yolk!**
+- Created by **yolk!, ain**
