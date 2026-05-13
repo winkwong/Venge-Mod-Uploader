@@ -32,7 +32,7 @@ This extension supports all **Chromium-based browsers** (Google Chrome, Microsof
 
 Currently, it can be installed manually via Developer Mode:
 
-1. Download the latest `.zip` file from the **[Releases](../../releases/latest)** page and extract it.
+1. Download the latest `venge-mod-uploader.zip` file from the **[Releases](../../releases/latest)** page and extract it.
 2. Open your browser and navigate to its extensions page:
    - Chrome/Vivaldi/Opera: `chrome://extensions/`
    - Edge: `edge://extensions/`
